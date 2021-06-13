@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 600 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g>
+        <g transform="matrix(1.08081,0,0,1.08081,-24.9623,-19.2808)">
+            <path d="M510.304,57.172L540.759,26.717L572.757,26.717L572.757,119.989L540.759,119.989L509.349,88.579L541.082,56.845L572.757,56.845" style="fill:none;stroke:white;stroke-width:3px;"/>
+        </g>
+        <g transform="matrix(1.08081,0,0,1.08081,-24.9623,-19.2808)">
+            <path d="M481.045,119.989L451.401,119.989L419.476,88.064L419.476,57.501L450.26,26.717L481.045,26.717" style="fill:none;stroke:white;stroke-width:3px;"/>
+        </g>
+        <g transform="matrix(1.08081,0,0,1.08081,-24.9623,-19.2808)">
+            <path d="M389.322,28.273L389.322,119.989" style="fill:none;stroke:white;stroke-width:3px;"/>
+        </g>
+        <g transform="matrix(1.08081,0,0,1.08081,-24.9623,-19.2808)">
+            <path d="M298.862,28.273L298.862,119.989L359.991,119.989" style="fill:none;stroke:white;stroke-width:3px;"/>
+        </g>
+        <g transform="matrix(1.08081,0,0,1.08081,-24.9623,-19.2808)">
+            <path d="M27.472,118.738L27.472,27.014L59.142,27.014L90.551,58.423L60.394,88.579L89.925,118.109L27.472,55.656" style="fill:none;stroke:white;stroke-width:3px;"/>
+        </g>
+        <g transform="matrix(1.08081,0,0,1.08081,-24.9623,-19.2808)">
+            <path d="M179.494,119.989L117.937,119.989L117.937,57.537L148.461,27.013L180.755,27.013L180.755,58.948L151.125,88.579L117.937,88.579" style="fill:none;stroke:white;stroke-width:3px;"/>
+        </g>
+        <g transform="matrix(1.08081,0,0,1.08081,-24.9623,-19.2808)">
+            <path d="M208.768,119.989L208.768,58.423L240.178,27.013L271.222,27.013L271.222,58.425L240.178,89.469L208.768,89.469" style="fill:none;stroke:white;stroke-width:3px;"/>
+        </g>
+    </g>
+</svg>
